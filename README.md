@@ -137,6 +137,6 @@
 **→ Replace these before using:**
 - `YOUR_GITHUB_USERNAME`
 - your actual email
-- [your actual LinkedIn profile link](https://www.linkedin.com/in/adarsh-tiwari-bbb7413a7/)
+- [LinkedIn](https://www.linkedin.com/in/adarsh-tiwari-bbb7413a7/)
 
 Happy coding! 🚀
