@@ -1,285 +1,356 @@
-```
-    ╔═══════════════════════════════════════════════════════════════╗
-    ║                                                               ║
-    ║                    🚀 AI Engineer 🚀                          ║
-    ║                                                               ║
-    ║                > ideate()                                    ║
-    ║                > build()                                     ║
-    ║                > learn()                                     ║
-    ║                > repeat()_                                   ║
-    ║                                                               ║
-    ║          BUILD | SOLVE | LEARN | GROW                        ║
-    ║                                                               ║
-    ╚═══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USERNAME/profile-header-image.png" alt="Header" width="100%"/>
-</div>
-
-# 👋 Hi, I'm Adarsh Tiwari
-
 <div align="center">
 
-### 🎓 3rd Year B.Tech CSE | 🤖 AI Engineer | 📊 Data Science & Analytics | 💻 MERN Stack
+<!-- ===================== HERO ===================== -->
 
-<p>
-  <a href="https://linkedin.com/in/adarsh-tiwari-bbb7413a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:adarsh.tiwari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=ADARSH%20TIWARI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20ML%20%7C%20GENAI%20%7C%20FULL%20STACK&descAlignY=62&descSize=17&animation=fadeIn&color=0:0f172a,50:312e81,100:0ea5e9" width="100%"/>
 
-📍 India | 🌱 Always Learning | ✨ Building Intelligent Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%F0%9F%A4%96+Building+AI+Agents+%26+Intelligent+Systems;%F0%9F%A7%A0+Machine+Learning+%7C+NLP+%7C+Deep+Learning;%F0%9F%94%8E+RAG+%7C+Hybrid+Retrieval+%7C+LLM+Applications;%E2%9A%A1+LangGraph+%7C+LangChain+%7C+MCP+%7C+FastAPI;%F0%9F%8C%90+MERN+%7C+APIs+%7C+Production-Ready+Applications;%F0%9F%9A%80+Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Ship" alt="Animated typing introduction" />
+
+<br/>
+
+<a href="https://github.com/Adarshtiwari44">
+<img src="https://img.shields.io/badge/GitHub-Adarshtiwari44-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/adarsh-tiwari-bbb7413a7/">
+<img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/adarsh2030/">
+<img src="https://img.shields.io/badge/LeetCode-adarsh2030-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="mailto:adarshtiwari1979@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Adarshtiwari44&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
 
 </div>
 
----
-
-## 👤 About Me
+⚡ $ whoami
 
 <table>
-  <tr>
-    <td>
-      <p>3rd year B.Tech Computer Science & Engineering student passionate about building intelligent systems and solving real-world problems with data.</p>
-      
-      <p>🔍 <b>Specialization:</b> Artificial Intelligence, Machine Learning, Data Science & Analytics</p>
-      
-      <p>💡 <b>Interests:</b> LLMs, MLOps, Full-Stack Development, Deep Learning, Data Visualization</p>
-      
-      <p>🎯 <b>Philosophy:</b> <i>Build practical solutions, learn continuously, contribute to open source</i></p>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/3rd%20Year-B.Tech%20CSE-blue?style=flat-square" height="40"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Projects-20%2B-brightgreen?style=flat-square" height="40"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI%20%2F%20DS-Expert-orange?style=flat-square" height="40"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Open%20Source-Contributor-red?style=flat-square" height="40"/>
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+👋 Hey, I'm Adarsh!
+
+🎓 B.Tech Computer Science & Engineering student at Parul University.
+
+🤖 I build AI/ML, Generative AI, RAG and Agentic AI systems and enjoy turning ideas into practical applications.
+
+🔧 My current engineering interests include LangGraph, LangChain, MCP, RAG, FastAPI, machine learning and full-stack development.
+
+🧩 I like working on systems that combine LLMs + tools + retrieval + APIs + real-world workflows.
+
+💡 Mindset: Build → Learn → Improve → Ship 🚀
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif" width="300" alt="Coding animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20GenAI-Builder-7C3AED?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/RAG%20%26%20Agents-Engineer-0891B2?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-16A34A?style=for-the-badge" />
+
+</td>
+</tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
-
-### 🎨 Frontend
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</div>
-
-### 🔧 Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</div>
-
-### 🗄️ Database
-<div>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
-### 🤖 AI/ML & Data Science
-<div>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-</div>
-
-### 🛠️ Tools & Platforms
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</div>
-
----
-
-## 📁 All Repositories
-
-### ⭐ Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>🤖 Customer Support AI Agent</h3>
-      <p><b>AI-powered customer support agent with RAG and MCP integration</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink"/>
-      </p>
-      <p>⭐ 4 | 🍴 1</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/customer-support-ai">View Repo →</a>
-    </td>
-    <td width="33%">
-      <h3>🔄 Autonomous RAG Pipeline</h3>
-      <p><b>Self-healing ETL pipeline with LLM-based monitoring and fixes</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-      </p>
-      <p>⭐ 7 | 🍴 2</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/autonomous-rag">View Repo →</a>
-    </td>
-    <td width="33%">
-      <h3>🐛 Code Debugger Agent</h3>
-      <p><b>GitHub repository analysis and intelligent code bug detection</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub%20API-100000?style=flat-square&logo=github"/>
-      </p>
-      <p>⭐ 5 | 🍴 1</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/code-debugger">View Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <h3>💰 Market Sales Forecasting</h3>
-      <p><b>Time-series forecasting for retail sales prediction</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square"/>
-      </p>
-      <p>⭐ 8 | 🍴 2</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/sales-forecast">View Repo →</a>
-    </td>
-    <td width="33%">
-      <h3>📊 Data Analytics Dashboard</h3>
-      <p><b>Interactive analytics dashboard with React & Power BI</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
-      </p>
-      <p>⭐ 4 | 🍴 1</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/dashboard">View Repo →</a>
-    </td>
-    <td width="33%">
-      <h3>🎬 Movie Recommendation Engine</h3>
-      <p><b>Content-based ML recommendation system</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-      </p>
-      <p>⭐ 6 | 🍴 2</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/movie-recommender">View Repo →</a>
-    </td>
-  </tr>
-</table>
+🧠 What I'm Building
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=INTELLIGENT%20SYSTEMS&fontSize=28&fontColor=ffffff&color=gradient&animation=fadeIn" width="100%" />
 </p>
 
----
+                    ┌─────────────────────────┐
+                    │        USER / APP        │
+                    └────────────┬────────────┘
+                                 │
+              ┌──────────────────▼──────────────────┐
+              │          AI APPLICATION LAYER       │
+              │     LLMs • Agents • Workflows       │
+              └──────────┬───────────────┬───────────┘
+                         │               │
+                ┌────────▼──────┐ ┌──────▼────────┐
+                │      RAG       │ │     TOOLS     │
+                │ Vector + BM25  │ │ APIs • MCP    │
+                │ Reranking      │ │ Search • DB   │
+                └────────┬──────┘ └──────┬────────┘
+                         │               │
+                         └───────┬───────┘
+                                 ▼
+                    ┌─────────────────────────┐
+                    │     FASTAPI / BACKEND   │
+                    └────────────┬────────────┘
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       DATA / DB         │
+                    │ PostgreSQL • ChromaDB   │
+                    └─────────────────────────┘
 
-## 📊 GitHub Statistics
+🛠️ Tech Arsenal
+
+💻 Languages & Web
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,express&perline=8" />
+</p>
+
+🧠 AI / ML / DL
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=8" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+🤖 GenAI / Agentic AI
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BM25-374151?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" />
+</p>
+
+⚙️ Backend / Database / DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,postgres,sqlite,docker,git,github,postman&perline=10" />
+</p>
+
+<p align="center">
+<b>AI Agents</b> • <b>RAG</b> • <b>Hybrid Retrieval</b> • <b>BM25</b> • <b>Reranking</b> • <b>Query Rewriting</b> • <b>Tool Calling</b> • <b>Memory</b> • <b>HITL</b> • <b>MCP</b>
+</p>
+
+🚀 Featured Projects
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+✈️ TravelMate
+
+Multi-Agent AI Travel Planner
+
+AI travel-planning workflow using specialized agents for flights, hotels, itineraries and final responses.
+
+LangGraph Groq FastAPI PostgreSQL AviationStack Tavily
+
+</td>
+<td width="50%" valign="top">
+
+🎧 Customer Support AI Agent
+
+AI-powered customer support workflow
+
+Classifies customer intent, drafts grounded responses and supports auto-handle / escalation decisions.
+
+Python LangGraph RAG MCP LLMs
+
+<a href="https://github.com/Adarshtiwari44/Customer_support">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🧩 Multi-Agent System
+
+LangGraph + MCP + Supervisor + Guardrails + HITL
+
+Explores supervisor-based orchestration, MCP tools, guardrails and human-in-the-loop workflows.
+
+<a href="https://github.com/Adarshtiwari44/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+🏥 MediVision
+
+AI Medical Report & Diagnostic Scan Analyzer
+
+Processes reports, prescriptions and diagnostic scans using OCR and multimodal AI.
+
+FastAPI PyMuPDF Tesseract Pillow Gemini Vision
+
+<a href="https://github.com/Adarshtiwari44/MediVision">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+▶️ YouTube RAG Chatbot
+
+Answers questions from YouTube transcripts with Dense + BM25 retrieval, query rewriting, multi-query retrieval, memory and CrossEncoder reranking.
+
+FastAPI ChromaDB Sentence Transformers BM25 Groq
+
+</td>
+<td width="50%" valign="top">
+
+🧠 Agentic-AI
+
+Experiments and implementations around agentic workflows and autonomous AI systems.
+
+<a href="https://github.com/Adarshtiwari44/Agentic-Ai">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+📚 Other Projects
+
+Project
+
+Focus
+
+🧠 Movie Recommendation System
+
+Content-based & collaborative filtering
+
+🏥 MediVision
+
+Medical report / scan analysis
+
+🛡️ Spam Email Detector
+
+Machine Learning + NLP
+
+📈 Student Marks Prediction
+
+Machine Learning prediction
+
+📊 Student Report Analyzer
+
+Data / report analysis
+
+🖥️ J.A.R.V.I.S
+
+Voice assistant + desktop automation
+
+🧩 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/adarsh2030/">
+<img src="https://leetcard.jacoblin.cool/adarsh2030?theme=dark&font=Karma&ext=contest" width="500" alt="Adarsh Tiwari LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/adarsh2030/">
+<img src="https://img.shields.io/badge/OPEN%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adarshtiwari44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshtiwari44&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshtiwari44&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Adarshtiwari44&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+</div>
+
+🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adarshtiwari44/Adarshtiwari44/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+Snake setup: create a GitHub Actions workflow to generate the contribution snake SVG. The README image will stay animated once the workflow is configured.
+
+🎯 Current Focus
+
+[██████████████████░░] AI Agents & LangGraph
+[█████████████████░░░] RAG / Hybrid Retrieval
+[████████████████░░░░] Generative AI
+[██████████████░░░░░░] MERN / Full Stack
+[██████████████░░░░░░] DSA & Problem Solving
+[████████████░░░░░░░░] Deep Learning
+
+🤖 Building multi-agent AI systems with LangGraph
+
+🔎 Improving RAG pipelines with hybrid retrieval and reranking
+
+🔌 Exploring MCP and tool-using agents
+
+🌐 Building full-stack applications with MERN + FastAPI
+
+🧠 Strengthening ML, NLP and Deep Learning foundations
+
+🧩 Practicing DSA and software engineering
+
+📜 Certifications
+
+Oracle Generative AI Professional Certification — Oracle University
+
+AI & Machine Learning Program — Pregrad
+
+Data Science & Machine Learning Bootcamp — Krish Naik (Udemy)
+
+🎓 Education
+
+Bachelor of Technology — Computer Science & Engineering
+Parul University · 2023–2027
+CGPA: 7.3 / 10
+
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/adarsh-tiwari-bbb7413a7/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Adarshtiwari44">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/adarsh2030/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+intelligent.+%F0%9F%A4%96;Ideas+%E2%86%92+Code+%E2%86%92+AI+%E2%86%92+Impact+%F0%9F%9A%80" alt="Closing animation" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
-</div>
 
----
-
-## 🎯 Current Focus
-
-- 🚀 Building production-grade **AI agents** with **LangGraph**
-- 📚 Deep diving into **MLOps** and deployment strategies
-- 🔍 Exploring **Retrieval Augmented Generation (RAG)** systems
-- 🌐 Full-stack development with **MERN stack**
-- 📊 Advanced data analytics and visualization techniques
-
----
-
-## 💼 Experience & Achievements
-
-- ✅ **20+ Projects** completed in AI/ML, Web Development, and Data Science
-- ✅ Open source **contributor** on multiple repositories
-- ✅ Experience with **production-level systems** and deployment
-- ✅ Strong foundation in **Data Structures & Algorithms**
-- ✅ Hands-on experience with **cloud platforms** (AWS, Azure basics)
-
----
-
-## 📚 Latest Blog Posts & Resources
-
-<!-- You can add Medium or Dev.to feed here -->
-- 🔗 [Understanding RAG Systems](https://medium.com/@yourusername)
-- 🔗 [Building AI Agents with LangGraph](https://dev.to/yourusername)
-- 🔗 [Full-Stack Development Guide](https://medium.com/@yourusername)
-
----
-
-## 🎓 Learning Goals
-
-- [ ] Master **LangGraph** architecture patterns
-- [ ] Deploy AI models to **production** (MLflow, BentoML)
-- [ ] Build **end-to-end ML pipeline** (data → model → inference)
-- [ ] Contribute to **open-source AI projects**
-- [ ] Understand **LLM fine-tuning** and prompt engineering
-- [ ] System design for **scalable AI systems**
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/adarsh-tiwari-bbb7413a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:adarsh.tiwari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Code today, innovation tomorrow. Always learning, always building."* ✨
-
-<img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Adarsh-Tiwari-lightgrey"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:312e81,100:0f172a&animation=fadeIn" width="100%" />
 
 </div>
